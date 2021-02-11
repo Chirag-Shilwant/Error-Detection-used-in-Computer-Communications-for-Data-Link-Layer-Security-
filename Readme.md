@@ -1,4 +1,6 @@
 ## SNS ASSIGNMENT-2:
+One way communication channel in which one or more threads can send message to a server. The message is encrypted using a specific encoding scheme and the CRC is calculated . The CRC is again calculated at the server side too, to check the authencity of the message.
+
 The folder contains 2 files:
 1. **client.py** 
 2. **server.py** 

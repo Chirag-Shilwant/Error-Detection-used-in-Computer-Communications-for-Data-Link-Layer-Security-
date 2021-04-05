@@ -1,4 +1,4 @@
-## SNS ASSIGNMENT-2:
+## Error-Detection-used-in-Computer-Communications-for-Data-Link-Layer-Security:
 One way communication channel in which one or more threads can send message to a server. The message is encrypted using a specific encoding scheme and the CRC is calculated . The CRC is again calculated at the server side too, to check the authencity of the message.
 
 The folder contains 2 files:
